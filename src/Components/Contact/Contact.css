@@ -24,3 +24,36 @@
     width: 30px;
     margin-left: 10px;
 }
+
+.contact-col p{
+    max-width: 450px;
+    list-style: center;
+}
+
+.contact-col ul li{
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.contact-col ul li img{
+    max-width: 25px;
+    margin-right: 10px;
+}
+
+.contact-col form input,.contact-col form textarea{
+    display: block;
+    width: 100%;
+    background: #feebeb;
+    padding: 15px;
+    border: 0;
+    outline: 0;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    resize: none;
+}
+
+.contact-col span{
+    display: block;
+    margin: 20px 0;
+}

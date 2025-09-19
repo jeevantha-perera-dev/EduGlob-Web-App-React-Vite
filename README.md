@@ -1,5 +1,9 @@
 # React + Vite
 
+The WebSite is LIVE!!!
+
+GO checkout!!! : [https://68cce4b516564cd0a4bd91ec--eduglob.netlify.app/](https://eduglob.netlify.app/)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
